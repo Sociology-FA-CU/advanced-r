@@ -1,0 +1,7 @@
+---
+title: "Completion Requirements"
+---
+
+To successfully complete this course, students will produce a report in which they perform data analysis using the techniques taught in this course.
+
+The source of data can be either the [Tidytuesday project](https://github.com/rfordatascience/tidytuesday) or, after consultation, students can also use their own data (e.g. for a bachelor's/diploma thesis).

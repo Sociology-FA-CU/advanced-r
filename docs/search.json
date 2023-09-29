@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "literature.html",
+    "href": "literature.html",
+    "title": "Literature",
+    "section": "",
+    "text": "Gelman, A., Hill, J., & Vehtari, A. (2021). Regression and other stories. Cambridge University Press. Dostupná online na https://avehtari.github.io/ROS-Examples/\n\n\n\nMcElreath, R. (2015). Statistical Rethinking: A Bayesian Course with Examples in R and Stan (1st edition). Chapman and Hall/CRC.\nHuntington-Klein, N. (n.d.). The Effect: An Introduction to Research Design and Causality | The Effect. Retrieved 20 September 2023, Dostupné online na  https://theeffectbook.net/\nCunningham, S. (2021). Causal Inference: The Mixtape. Yale University Press. Dostupné online na https://mixtape.scunning.com/"
+  },
+  {
+    "objectID": "completion.html",
+    "href": "completion.html",
+    "title": "Completion Requirements",
+    "section": "",
+    "text": "To successfully complete this course, students will produce a report in which they perform data analysis using the techniques taught in this course.\nThe source of data can be either the Tidytuesday project or, after consultation, students can also use their own data (e.g. for a bachelor’s/diploma thesis)."
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
+    "section": "",
+    "text": "Here, you will eventually be able to find slides for all lectures."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Advanced statistical analysis for social sciences in R",
+    "section": "",
+    "text": "How do you estimate the impact of education policies? Or influence of smoking on the risk of cancer? And how would we examine whether raising the minimum wage has an impact on unemployment?\nUsing these and other examples, this course aims to introduce students to the world of causal inference and advanced statistical modelling. The course itself is divided into two parts. In the first part, we will show how to model variables for which linear regression is not sufficient. In the second part, we’ll review the basics of causal inference - tools for examining the influence of variables instead of simple correlations. Specifically, we will:\nPart 1:\n\nIntroduction to Generalized Linear Models\n\nModelling categorical variables such as voter turnout or political preferences (logistic regression)\n\nModelling count variables such as the number of hours missed at school (Poisson Negative Binomial Regression)\n\nModelling variables in closed intervals, such as school grade average or proportions (beta and gamma regression)\n\nPart 2:\n\nIntroduction to causal inference\n\nExperimental design, used in the evaluation of educational policies and in marketing\n\nDifference-in-differences analysis, or how we researched the effect of raising the minimum wage on unemployment\n\nPropensity score matching/weighting, and how epidemiologists use it to study the effects of smoking or wearing medical masks.\n\nUpon completion of the course, students will be ready to embark on quantitative analysis at the expert level, whether they take the path of academia, the private sector or public policy. The course assumes user proficiency in the R programming language (at the level of the Introduction to Data Analysis in R course) and the ability to use linear regression (at the level of the Applied Regression in R course). Students will also need their own laptop."
+  },
+  {
+    "objectID": "packages-data.html",
+    "href": "packages-data.html",
+    "title": "Packages & Data",
+    "section": "",
+    "text": "We are going to work with the following R packages - run the code in R to install them:\n\ninstall.packages(c(\"tidyverse\",\n                   \"marginaleffects\",\n                   \"performance\",\n                   \"glmmTMB\",\n                   \"MatchIt\"))"
+  },
+  {
+    "objectID": "packages-data.html#packages",
+    "href": "packages-data.html#packages",
+    "title": "Packages & Data",
+    "section": "",
+    "text": "We are going to work with the following R packages - run the code in R to install them:\n\ninstall.packages(c(\"tidyverse\",\n                   \"marginaleffects\",\n                   \"performance\",\n                   \"glmmTMB\",\n                   \"MatchIt\"))"
+  },
+  {
+    "objectID": "packages-data.html#data",
+    "href": "packages-data.html#data",
+    "title": "Packages & Data",
+    "section": "Data",
+    "text": "Data\nHere, you will eventually find datasets used throughout the course."
+  }
+]

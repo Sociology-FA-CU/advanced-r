@@ -1,0 +1,20 @@
+---
+title: "Packages & Data"
+---
+
+## Packages
+
+We are going to work with the following R packages - run the code in R to install them:
+
+```{r packages}
+#| eval: false
+install.packages(c("tidyverse",
+                   "marginaleffects",
+                   "performance",
+                   "glmmTMB",
+                   "MatchIt"))
+```
+
+## Data
+
+Here, you will eventually find datasets used throughout the course.

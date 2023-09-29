@@ -1,0 +1,14 @@
+---
+title: "Literature"
+---
+
+-   Gelman, A., Hill, J., & Vehtari, A. (2021). *Regression and other stories*. Cambridge University Press. Available online at <https://avehtari.github.io/ROS-Examples/>
+
+```{=html}
+<!-- -->
+```
+-   McElreath, R. (2015). *Statistical Rethinking: A Bayesian Course with Examples in R and Stan* (1st edition). Chapman and Hall/CRC.
+
+-   Huntington-Klein, N. (n.d.). *The Effect: An Introduction to Research Design and Causality \| The Effect*. Retrieved 20 September 2023, Available online at <https://theeffectbook.net/>
+
+-   Cunningham, S. (2021). *Causal Inference: The Mixtape*. Yale University Press. Available online at [https://mixtape.scunning.com/](#0)

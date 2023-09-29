@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Advanced statistical analysis for social sciences in R"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - slides.qmd
+      - completion.qmd
+      - packages-data.qmd
+      - literature.qmd
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+
+editor: visual
+

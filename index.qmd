@@ -1,0 +1,23 @@
+---
+title: ""
+---
+
+*How do you estimate the impact of education policies? Or influence of smoking on the risk of cancer? And how would we examine whether raising the minimum wage has an impact on unemployment?*
+
+Using these and other examples, this course aims to introduce students to the world of causal inference and advanced statistical modelling. The course itself is divided into two parts. In the first part, we will show how to model variables for which linear regression is not sufficient. In the second part, we'll review the basics of causal inference - tools for examining the influence of variables instead of simple correlations. Specifically, we will:
+
+Part 1:
+
+-   Introduction to Generalized Linear Models\
+-   Modelling categorical variables such as voter turnout or political preferences (logistic regression)\
+-   Modelling count variables such as the number of hours missed at school (Poisson Negative Binomial Regression)\
+-   Modelling variables in closed intervals, such as school grade average or proportions (beta and gamma regression)
+
+Part 2:
+
+-   Introduction to causal inference\
+-   Experimental design, used in the evaluation of educational policies and in marketing\
+-   Difference-in-differences analysis, or how we researched the effect of raising the minimum wage on unemployment\
+-   Propensity score matching/weighting, and how epidemiologists use it to study the effects of smoking or wearing medical masks.
+
+Upon completion of the course, students will be ready to embark on quantitative analysis at the expert level, whether they take the path of academia, the private sector or public policy. The course assumes user proficiency in the R programming language (at the level of the Introduction to Data Analysis in R course) and the ability to use linear regression (at the level of the Applied Regression in R course). Students will also need their own laptop.
