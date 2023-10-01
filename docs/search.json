@@ -4,7 +4,7 @@
     "href": "literature.html",
     "title": "Literature",
     "section": "",
-    "text": "Gelman, A., Hill, J., & Vehtari, A. (2021). Regression and other stories. Cambridge University Press. Dostupná online na https://avehtari.github.io/ROS-Examples/\n\n\n\nMcElreath, R. (2015). Statistical Rethinking: A Bayesian Course with Examples in R and Stan (1st edition). Chapman and Hall/CRC.\nHuntington-Klein, N. (n.d.). The Effect: An Introduction to Research Design and Causality | The Effect. Retrieved 20 September 2023, Dostupné online na  https://theeffectbook.net/\nCunningham, S. (2021). Causal Inference: The Mixtape. Yale University Press. Dostupné online na https://mixtape.scunning.com/"
+    "text": "Gelman, A., Hill, J., & Vehtari, A. (2021). Regression and other stories. Cambridge University Press. Available online at https://avehtari.github.io/ROS-Examples/\n\n\n\nMcElreath, R. (2015). Statistical Rethinking: A Bayesian Course with Examples in R and Stan (1st edition). Chapman and Hall/CRC.\nHuntington-Klein, N. (n.d.). The Effect: An Introduction to Research Design and Causality | The Effect. Retrieved 20 September 2023, Available online at https://theeffectbook.net/\nCunningham, S. (2021). Causal Inference: The Mixtape. Yale University Press. Available online at https://mixtape.scunning.com/"
   },
   {
     "objectID": "completion.html",
@@ -18,7 +18,7 @@
     "href": "slides.html",
     "title": "Slides",
     "section": "",
-    "text": "Here, you will eventually be able to find slides for all lectures."
+    "text": "Here, you will eventually be able to find slides for all lectures.\n\nWhat are Generalized Linear Models (last updated 29. 9. 2023)"
   },
   {
     "objectID": "index.html",
