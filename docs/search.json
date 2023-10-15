@@ -18,7 +18,7 @@
     "href": "slides.html",
     "title": "Slides",
     "section": "",
-    "text": "Here, you will eventually be able to find slides for all lectures.\n\nWhat are Generalized Linear Models (last updated 29. 9. 2023)"
+    "text": "Here, you will eventually be able to find slides for all lectures.\n\nWhat are Generalized Linear Models (last updated 29. 9. 2023)\nBinary Logistic Regression (last updated 15. 10. 2023)\nOrdinal and Multinomial Regression (last updated 15. 10. 2023)"
   },
   {
     "objectID": "index.html",
@@ -32,20 +32,20 @@
     "href": "packages-data.html",
     "title": "Packages & Data",
     "section": "",
-    "text": "We are going to work with the following R packages - run the code in R to install them:\n\ninstall.packages(c(\"tidyverse\",\n                   \"marginaleffects\",\n                   \"performance\",\n                   \"glmmTMB\",\n                   \"MatchIt\"))"
+    "text": "We are going to work with the following R packages - run the code in R to install them:\n\ninstall.packages(c(\"tidyverse\",\n                   \"marginaleffects\",\n                   \"performance\",\n                   \"ordinal\",\n                   \"rms\",\n                   \"glmmTMB\",\n                   \"MatchIt\"))"
   },
   {
     "objectID": "packages-data.html#packages",
     "href": "packages-data.html#packages",
     "title": "Packages & Data",
     "section": "",
-    "text": "We are going to work with the following R packages - run the code in R to install them:\n\ninstall.packages(c(\"tidyverse\",\n                   \"marginaleffects\",\n                   \"performance\",\n                   \"glmmTMB\",\n                   \"MatchIt\"))"
+    "text": "We are going to work with the following R packages - run the code in R to install them:\n\ninstall.packages(c(\"tidyverse\",\n                   \"marginaleffects\",\n                   \"performance\",\n                   \"ordinal\",\n                   \"rms\",\n                   \"glmmTMB\",\n                   \"MatchIt\"))"
   },
   {
     "objectID": "packages-data.html#data",
     "href": "packages-data.html#data",
     "title": "Packages & Data",
     "section": "Data",
-    "text": "Data\nHere, you will eventually find datasets used throughout the course.\n\nPenguins (last updated 1. 10. 2023)\nEuropean Social Survey - small (last updated 1. 10. 2023)"
+    "text": "Data\nHere, you will eventually find datasets used throughout the course.\n\nPenguins (last updated 1. 10. 2023)\nEuropean Social Survey - small (last updated 15. 10. 2023)"
   }
 ]
