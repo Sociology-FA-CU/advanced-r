@@ -1,5 +1,5 @@
 ---
-title: "Packages & Data"
+title: "Packages"
 ---
 
 ## Packages
@@ -14,13 +14,8 @@ install.packages(c("tidyverse",
                    "ordinal",
                    "rms",
                    "glmmTMB",
-                   "MatchIt"))
+                   "lme4",
+                   "DHARMa",
+                   "MatchIt",
+                   "cobalt"))
 ```
-
-## Data
-
-Here, you will eventually find datasets used throughout the course.
-
--   [Penguins](https://github.com/Sociology-FA-CU/advanced-r/raw/main/data/penguins.rds) (last updated 1. 10. 2023)
-
--   [European Social Survey - small](https://github.com/Sociology-FA-CU/advanced-r/raw/main/data/ess-cz.rds) (last updated 15. 10. 2023)

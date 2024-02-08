@@ -2,8 +2,15 @@
 title: "Slides"
 ---
 
-Here, you will eventually be able to find slides for all lectures.
+Here, you can find slides for all lectures.
 
-1.  [What are Generalized Linear Models](https://github.com/Sociology-FA-CU/advanced-r/blob/main/slides/01-glm-intro.pdf) (last updated 29. 9. 2023)
-2.  [Binary Logistic Regression](https://github.com/Sociology-FA-CU/advanced-r/blob/main/slides/02-logistic-binary.pdf) (last updated 15. 10. 2023)
-3.  [Ordinal and Multinomial Regression](https://github.com/Sociology-FA-CU/advanced-r/blob/main/slides/03-logistic-ordinal-nominal.pdf) (last updated 15. 10. 2023)
+1.  [What are Generalized Linear Models](https://cdn.githubraw.com/Sociology-FA-CU/advanced-r/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/01-glm-intro.pdf) (last updated 29. 9. 2023)
+2.  [Binary Logistic Regression](https://cdn.githubraw.com/Sociology-FA-CU/advanced-r/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/02-logistic-binary.pdf) - modeling binary variables (last updated 15. 10. 2023)
+3.  [Ordinal and Multinomial Regression](https://cdn.githubraw.com/Sociology-FA-CU/advanced-r/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/03-logistic-ordinal-nominal.pdf) - modeling categorical variables (last updated 15. 10. 2023)
+4.  [Poisson and Negative Binomial Regression](https://cdn.githubraw.com/Sociology-FA-CU/advanced-r/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/04-counts.html) - modeling counts (last updated 8. 1. 2024)
+5.  [Beta Regression](https://cdn.githubraw.com/Sociology-FA-CU/advanced-r/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/05-proportions.html) - modeling proportions (last updated 8. 1. 2024)
+6.  [Mixed Models](https://cdn.githubraw.com/Sociology-FA-CU/advanced-r/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/06-mixed.html) (last updated 8. 1. 2024)
+7.  [What is Causal Inference](https://cdn.githubraw.com/Sociology-FA-CU/advanced-r/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/07-causal-inference.html) (last updated 8. 2. 2024)
+8.  [Directed Acyclic Graphs](https://cdn.githubraw.com/Sociology-FA-CU/advanced-r/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/08-dags.pdf) (last updated 8. 2. 2024)
+9.  [Propensity Scores Matching](https://cdn.githubraw.com/Sociology-FA-CU/advanced-r/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/09-propensity-scores.pdf) (last updated 8. 2. 2024)
+10. [Difference-in-Differences Analysis](https://github.com/Sociology-FA-CU/advanced-r/blob/f6ff8c6ea6edc8b5db573e597b0e4a8e6f67b094/slides/10-did.pdf) (last updated 8. 2. 2024)
